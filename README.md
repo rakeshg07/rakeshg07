@@ -5,7 +5,7 @@
 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1A4r-OUxxHmXgv7p-9By2P-bFpORh1wLr/view?usp=sharing)
 
-- 💻 All of my projects are available on [GitHub](https://github.com/rakesh07)
+- 💻 All of my projects are available on [GitHub](https://github.com/rakeshg07)
 
 - 💬 Ask me about **Front-end, Backend and Artificial Intelligence**
 
