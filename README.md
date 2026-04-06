@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thenameisrakesh&label=Profile%20views&color=0e75b6&style=flat" alt="Thenameisrakesh" /> </p>
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1i1ZjVkih7Mb6_9m65dSmkZVrV-VvdAH6/view)
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1A4r-OUxxHmXgv7p-9By2P-bFpORh1wLr/view?usp=sharing)
 
-- 💻 All of my projects are available on [GitHub](https://github.com/Thenameisrakesh)
+- 💻 All of my projects are available on [GitHub](https://github.com/rakesh07)
 
 - 💬 Ask me about **Front-end, Backend and Artificial Intelligence**
 
