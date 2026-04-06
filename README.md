@@ -15,7 +15,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakeshg07&show_icons=true&locale=en" alt="Rakesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thenameisrakesh&" alt="Thenameisrakesh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshg07&" alt="Rakesh" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
