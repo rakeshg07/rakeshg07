@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Front-end, Backend and Artificial Intelligence**
 
-- 📫 Reach out to me at **rakeshgofficial07@gmail.com**
+- 📫 Reach out to me at **rakeshg0125@gmail.com**
 
 <h3 align="left">GitHub Stats:</h3>
 
