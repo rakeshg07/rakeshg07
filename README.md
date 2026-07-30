@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rakesh G</h1>
-<h3 align="center">A passionate Coder from India 🇮🇳 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thenameisrakesh&label=Profile%20views&color=0e75b6&style=flat" alt="Thenameisrakesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshg07&label=Profile%20views&color=0e75b6&style=flat" alt="Rakesh G" /> </p>
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1A4r-OUxxHmXgv7p-9By2P-bFpORh1wLr/view?usp=sharing)
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1z_GkJx9BajSLztV-biK6YXcZsM64aZZG/view?usp=sharing)
 
 - 💻 All of my projects are available on [GitHub](https://github.com/rakeshg07)
 
