@@ -1,25 +1,80 @@
 <h1 align="center">Hi 👋, I'm Rakesh G</h1>
+<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Building things that work end-to-end</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshg07&label=Profile%20views&color=0e75b6&style=flat" alt="Rakesh G" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakeshg07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/rakeshg07?tab=followers">
+    <img src="https://img.shields.io/github/followers/rakeshg07?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  </a>
+</p>
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1z_GkJx9BajSLztV-biK6YXcZsM64aZZG/view?usp=sharing)
+---
 
-- 💻 All of my projects are available on [GitHub](https://github.com/rakeshg07)
+### 🚀 About Me
+- 💬 Ask me about **Front-end, Backend, and Artificial Intelligence**
+- 🌱 Currently exploring new tools across the AI and cloud ecosystem
+- 📑 Check out my **[Resume](https://drive.google.com/file/d/1z_GkJx9BajSLztV-biK6YXcZsM64aZZG/view?usp=sharing)**
+- 💻 All of my projects are available on **[GitHub](https://github.com/rakeshg07)**
+- 📫 Reach me at **[rakeshg0125@gmail.com](mailto:rakeshg0125@gmail.com)**
 
-- 💬 Ask me about **Front-end, Backend and Artificial Intelligence**
+---
 
-- 📫 Reach out to me at **rakeshg0125@gmail.com**
+### 📊 GitHub Stats
 
-<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshg07&show_icons=true&locale=en&theme=default" alt="Rakesh's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshg07&" alt="Rakesh's GitHub streak" height="165" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakeshg07&show_icons=true&locale=en" alt="Rakesh" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshg07&" alt="Rakesh" /></p>
+### 🛠️ Languages & Tools
 
-<h3 align="left">Languages and Tools:</h3>
+**Languages**
+<p align="left">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+</p>
 
+**Frameworks & Libraries**
+<p align="left">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+**Databases**
+<p align="left">
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="buymeacoffee.com/thenameisrakesh"> <img align="left" src="https://buymeacoffee.com/thenameisrakesh" height="50" width="210" alt="thenameisrakesh" /></a></p><br><br>
+**Cloud & Deployment**
+<p align="left">
+<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=%2300C7B7" alt="Netlify"/>
+<img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=white" alt="Render"/>
+</p>
+
+**Tools**
+<p align="left">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva"/>
+</p>
+
+---
+
+### ☕ Support My Work
+
+<p align="left">
+  <a href="https://buymeacoffee.com/thenameisrakesh" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
+  </a>
+</p>
