@@ -71,7 +71,7 @@
 **Tools**
 <p align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/>
