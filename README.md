@@ -61,10 +61,11 @@
 
 **Cloud & Deployment**
 <p align="left">
-<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=%2300C7B7" alt="Netlify"/>
-<img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=white" alt="Render"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40" alt="Netlify"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40" alt="Render"/>
 </p>
 
 **Tools**
