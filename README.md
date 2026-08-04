@@ -22,7 +22,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshg07&show_icons=true&locale=en&theme=default" alt="Rakesh's GitHub stats" height="165" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshg07&" alt="Rakesh's GitHub streak" height="165" />
 </p>
 
