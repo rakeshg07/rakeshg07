@@ -20,9 +20,9 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=rakeshg07&theme=transparent&hide_border=true&background=1E1E2E&ring=7AA2F7&fire=7AA2F7&currStreakLabel=C792EA&currStreakNum=C792EA&sideNums=7AA2F7&sideLabels=7AA2F7&dates=4FD1C5&stroke=30363D"
+    src="https://streak-stats.demolab.com?user=rakeshg07&theme=transparent&hide_border=true&background=1E1E2E&ring=7AA2F7&fire=7AA2F7&currStreakLabel=C792EA&currStreakNum=C792EA&sideNums=7AA2F7&sideLabels=7AA2F7&dates=4FD1C5&stroke=30363D"
     alt="GitHub Streak"
-    width="800"
+    width="900"
   />
 </p>
 
