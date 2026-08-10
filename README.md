@@ -1,3 +1,104 @@
+# Hi, I'm Rakesh G 👋
+
+### Computer Science Engineering Student | Full-Stack Developer | AI Enthusiast
+
+I am a Computer Science Engineering student with a strong interest in **Full-Stack Development, Artificial Intelligence, and Data-driven applications**. I enjoy building practical software solutions, exploring emerging technologies, and continuously improving my technical skills.
+
+---
+
+## About Me
+
+* 💻 Interested in **Frontend Development, Backend Development, and Artificial Intelligence**
+* 🌱 Currently exploring **AI, Cloud Technologies, and modern software development tools**
+* 🚀 Experienced in building **full-stack web applications and AI-powered projects**
+* 📑 View my [**Resume**](https://drive.google.com/file/d/1z_GkJx9BajSLztV-biK6YXcZsM64aZZG/view?usp=sharing)
+* 💼 Explore my projects on [**GitHub**](https://github.com/rakeshg07)
+* 📫 Contact: [**rakeshg0125@gmail.com**](mailto:rakeshg0125@gmail.com)
+
+---
+
+## Technical Skills
+
+### Languages
+
+`Python` `JavaScript` `TypeScript` `C` `C++` `Java`
+
+### Frontend
+
+`React` `Next.js` `HTML` `CSS` `Tailwind CSS` `Three.js`
+
+### Backend
+
+`FastAPI` `Node.js` `Express.js` `REST APIs`
+
+### Databases
+
+`MongoDB` `MySQL` `SQLite` `Redis` `Neo4j`
+
+### AI & Machine Learning
+
+`PyTorch` `TensorFlow` `Transformers` `LangChain` `RAG` `Generative AI`
+
+### Cloud & Deployment
+
+`Docker` `Docker Compose` `Vercel` `Netlify` `Render`
+
+### Development Tools
+
+`Git` `GitHub` `VS Code` `Postman` `Jupyter Notebook`
+
+---
+
+## Featured Projects
+
+### SentinelAI
+
+AI-powered disaster management and emergency response platform integrating **GIS, incident tracking, resource management, hospital and shelter monitoring, weather intelligence, and AI-assisted decision support**.
+
+### TruthNet
+
+A full-stack AI assistant featuring conversational AI, authentication, OTP-based password recovery, and AI-powered image generation.
+
+### SkySmart
+
+A smart application focused on weather intelligence and data-driven environmental insights.
+
+### Handy Cricket League
+
+A cricket management platform designed to simplify tournament and league management through a modern web interface.
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshg07&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshg07&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Currently Exploring
+
+* Artificial Intelligence & Generative AI
+* Retrieval-Augmented Generation (RAG)
+* Cloud Computing & Deployment
+* Modern Full-Stack Architecture
+* Data Science & Machine Learning
+
+---
+
+## Connect With Me
+
+* **GitHub:** [github.com/rakeshg07](https://github.com/rakeshg07)
+* **Email:** [rakeshg0125@gmail.com](mailto:rakeshg0125@gmail.com)
+* **Portfolio:** [thenameisrakesh.netlify.app](https://thenameisrakesh.netlify.app/)
+
+---
+
+### ☕ Support My Work
+
+If you find my projects useful or interesting, consider giving them a ⭐ on GitHub.
 <h1 align="center">Hi 👋, I'm Rakesh G</h1>
 <h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Building things that work end-to-end</h3>
 
