@@ -13,7 +13,7 @@
 - 📑 Check out my **[Resume](https://drive.google.com/file/d/1z_GkJx9BajSLztV-biK6YXcZsM64aZZG/view?usp=sharing)**
 - 💻 All of my projects are available on **[GitHub](https://github.com/rakeshg07)**
 - 📫 Reach me at **[rakeshg0125@gmail.com](mailto:rakeshg0125@gmail.com)**
-
+----
 ---
 
 ## 📊 GitHub Stats
